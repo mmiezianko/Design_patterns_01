@@ -5,3 +5,11 @@ C:\Users\jedrusik\source\repos\BankAccount\BankAccount\obj\Debug\BankAccount.csp
 C:\Users\jedrusik\source\repos\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
 C:\Users\jedrusik\source\repos\BankAccount\BankAccount\obj\Debug\BankAccount.exe
 C:\Users\jedrusik\source\repos\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount\obj\Debug\BankAccount.pdb
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount\obj\Debug\BankAccount.csproj.AssemblyReference.cache
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount\obj\Debug\BankAccount.csproj.SuggestedBindingRedirects.cache
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount\bin\Debug\BankAccount.pdb

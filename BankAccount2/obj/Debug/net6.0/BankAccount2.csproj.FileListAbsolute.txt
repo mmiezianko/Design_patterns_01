@@ -1,0 +1,15 @@
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount2\bin\Debug\net6.0\BankAccount2.exe
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount2\bin\Debug\net6.0\BankAccount2.deps.json
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount2\bin\Debug\net6.0\BankAccount2.runtimeconfig.json
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount2\bin\Debug\net6.0\BankAccount2.dll
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount2\bin\Debug\net6.0\BankAccount2.pdb
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount2\obj\Debug\net6.0\BankAccount2.csproj.AssemblyReference.cache
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount2\obj\Debug\net6.0\BankAccount2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount2\obj\Debug\net6.0\BankAccount2.AssemblyInfoInputs.cache
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount2\obj\Debug\net6.0\BankAccount2.AssemblyInfo.cs
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount2\obj\Debug\net6.0\BankAccount2.csproj.CoreCompileInputs.cache
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount2\obj\Debug\net6.0\BankAccount2.dll
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount2\obj\Debug\net6.0\refint\BankAccount2.dll
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount2\obj\Debug\net6.0\BankAccount2.pdb
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount2\obj\Debug\net6.0\BankAccount2.genruntimeconfig.cache
+C:\Users\PLMAMIE11\.vscode\WP_01\BankAccount2\obj\Debug\net6.0\ref\BankAccount2.dll
