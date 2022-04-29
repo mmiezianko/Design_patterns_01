@@ -7,10 +7,10 @@ namespace SoftwareHouse_StatePattern
     public abstract class AccountType
     {
         // witdrawal operation - will be overriden in inherited classes
-        public abstract void Withdraw(Account account, decimal amount);
+        public abstract void PaySalary(decimal extrahours);
 
 
         // used to change account type - 
-        public abstract void ChangeAccountType(Account account);
+        public abstract void ChangeDeveloperType(Developer developer);
     }
 }
