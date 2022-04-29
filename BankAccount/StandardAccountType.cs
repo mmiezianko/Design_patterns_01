@@ -2,7 +2,7 @@
 
 namespace BankAccount_StatePattern
 {
-    // Represents Standard Account type - it playes a role of "Concrete State" in State pattern
+    // Represents Standard Account type - it playes a role of "Specific State" in State pattern
     public class StandardAccountType : AccountType
     {
         protected const decimal withdrawLimit = 5000;
@@ -12,7 +12,7 @@ namespace BankAccount_StatePattern
         // Operacja wypłaty dla konta Standard
         //
         // Obiekt Account wywoła tę wersję metody Withdraw(),
-        // jeśli znajdzie się w "stanie" VIPAccountType.
+        // jeśli znajdzie się w "stanie" Standard
         public override void Withdraw(Account account, decimal amount)
         {
             if ((amount > withdrawLimit) || (account.Balance < amount + serviceFee))

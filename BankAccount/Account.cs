@@ -34,7 +34,7 @@ namespace BankAccount_StatePattern
         public Account(string owner)
         {
             this._owner = owner;
-            this._accountType = new StandardAccountType();
+            this._accountType = new  JuniorAccountType();
         }
 
         // operacja wypłaty
