@@ -15,14 +15,14 @@ namespace SoftwareHouse_StatePattern
             set { this._name = value; }
         }
 
-        private decimal _balance;
-        public decimal Balance
+        private decimal _earnings;
+        public decimal Earnings
         {
-            get { return this._balance; }
-            set { this._balance = value; }   // docelowo należy "opakować" lub użyć "Proxy"
+            get { return this._earnings; }
+            set { this._earnings = value; }   // docelowo należy "opakować" lub użyć "Proxy"
         }
 
-         // "Stan" - reprezentuje rodzaj konta (Junior, Standard, VIP).
+         // "Stan" - reprezentuje rodzaj dev
         private DeveloperType _developerType;
         public DeveloperType DeveloperType
         {
@@ -36,6 +36,21 @@ namespace SoftwareHouse_StatePattern
             this._developerType = new JuniorDeveloperType();
         }
 
+
+        public void PaySalary(decimal extrahours)
+        {
+            // Deleguje wykonanie operacji do obiektu typu DeveloperType,
+            // wywołując na nim polimorficzną metodę PaySalary().
+            this._developerType.PaySalary(this, extrahours);
+        }
+
+        // operacja zmiany "stanu" (rodzaju konta)
+        public void ChangeDeveloperType()
+        {
+            // Deleguje wykonanie operacji do obiektu typu DeveloperType,
+            // wywołując na nim polimorficzną metodę ChangeState().
+            this._developerType.ChangeDeveloperType(this);
+        }
 
 
     }

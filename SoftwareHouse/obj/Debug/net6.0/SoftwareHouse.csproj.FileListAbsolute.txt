@@ -1,0 +1,15 @@
+C:\Users\PLMAMIE11\.vscode\WP_01\SoftwareHouse\obj\Debug\net6.0\SoftwareHouse.csproj.AssemblyReference.cache
+C:\Users\PLMAMIE11\.vscode\WP_01\SoftwareHouse\obj\Debug\net6.0\SoftwareHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PLMAMIE11\.vscode\WP_01\SoftwareHouse\obj\Debug\net6.0\SoftwareHouse.AssemblyInfoInputs.cache
+C:\Users\PLMAMIE11\.vscode\WP_01\SoftwareHouse\obj\Debug\net6.0\SoftwareHouse.AssemblyInfo.cs
+C:\Users\PLMAMIE11\.vscode\WP_01\SoftwareHouse\obj\Debug\net6.0\SoftwareHouse.csproj.CoreCompileInputs.cache
+C:\Users\PLMAMIE11\.vscode\WP_01\SoftwareHouse\bin\Debug\net6.0\SoftwareHouse.exe
+C:\Users\PLMAMIE11\.vscode\WP_01\SoftwareHouse\bin\Debug\net6.0\SoftwareHouse.deps.json
+C:\Users\PLMAMIE11\.vscode\WP_01\SoftwareHouse\bin\Debug\net6.0\SoftwareHouse.runtimeconfig.json
+C:\Users\PLMAMIE11\.vscode\WP_01\SoftwareHouse\bin\Debug\net6.0\SoftwareHouse.dll
+C:\Users\PLMAMIE11\.vscode\WP_01\SoftwareHouse\bin\Debug\net6.0\SoftwareHouse.pdb
+C:\Users\PLMAMIE11\.vscode\WP_01\SoftwareHouse\obj\Debug\net6.0\SoftwareHouse.dll
+C:\Users\PLMAMIE11\.vscode\WP_01\SoftwareHouse\obj\Debug\net6.0\refint\SoftwareHouse.dll
+C:\Users\PLMAMIE11\.vscode\WP_01\SoftwareHouse\obj\Debug\net6.0\SoftwareHouse.pdb
+C:\Users\PLMAMIE11\.vscode\WP_01\SoftwareHouse\obj\Debug\net6.0\SoftwareHouse.genruntimeconfig.cache
+C:\Users\PLMAMIE11\.vscode\WP_01\SoftwareHouse\obj\Debug\net6.0\ref\SoftwareHouse.dll
