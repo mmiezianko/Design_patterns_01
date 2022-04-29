@@ -8,14 +8,33 @@ namespace SoftwareHouse_StatePattern
     public class Developer
     {
         private string _name;
+
         public string Name 
         {
             get { return this._name; }
             set { this._name = value; }
         }
 
+        private decimal _balance;
+        public decimal Balance
+        {
+            get { return this._balance; }
+            set { this._balance = value; }   // docelowo należy "opakować" lub użyć "Proxy"
+        }
 
+         // "Stan" - reprezentuje rodzaj konta (Junior, Standard, VIP).
+        private DeveloperType _developerType;
+        public DeveloperType DeveloperType
+        {
+            get { return this._developerType; }
+            set { this._developerType = value; }
+        }
 
+        public Developer(string name)
+        {
+            this._name = name;
+            this._developerType = new JuniorDeveloperType();
+        }
 
 
 
